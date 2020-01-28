@@ -1,1 +1,1 @@
-# learn_ts
+# Learn typescript

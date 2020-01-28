@@ -1,0 +1,11 @@
+{
+  "name": "type_script",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "repository": "https://github.com/rubizhenko/learn_ts.git",
+  "author": "Dmytro Rubizhenko <d.rubizhenko@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc src/index.ts"
+  }
+}

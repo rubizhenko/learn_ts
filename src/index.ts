@@ -1,4 +1,3 @@
-function greeter(person: string) {
-  return "Hello, " + person;
-}
-greeter("Dima");
+let isDone: boolean = false;
+
+console.log(isDone);

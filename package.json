@@ -6,6 +6,12 @@
   "author": "Dmytro Rubizhenko <d.rubizhenko@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "tsc src/index.ts"
+    "start": "webpack --watch"
+  },
+  "devDependencies": {
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.7.5",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
   }
 }

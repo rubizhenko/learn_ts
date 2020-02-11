@@ -26,3 +26,5 @@ enum Color {
 }
 
 let c: Color = Color.Red;
+
+const testObj: Object = {};
